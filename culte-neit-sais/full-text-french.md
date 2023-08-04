@@ -28,7 +28,7 @@ _On trouvera peut-être que nous avons accordé trop d'importance à l'explicati
 
 _En Egypte cependant, les noms divins, qui tous sont significatifs, demandent à être examinés de très-près. M. Brugsch l'a montré dans son livre_ : Religion und Mythologie der alten Ægypter : _il a même essayé un certain nombre d'étymologies ; il n'a pas rencontré la nôtre, qui pourtant semble se présenter d'elle-même._
 
-_En fait, nous en avons proposé deux ; mais celle qui, chronologiquement, doit être placée la première (_net = _navette, tissage), avait déjà été indiquée par plusieurs savants. L'autre, celle qui implique un sens métaphysique, nous appartient seule ; et nous croyons qu'elle est incontestable, à condition qu'on ne revendique pas pour elle la priorité, qui revient certainement à l'explication matérielle._
+_En fait, nous en avons proposé deux ; mais celle qui, chronologiquement, doit être placée la première_ (net = _navette, tissage), avait déjà été indiquée par plusieurs savants. L'autre, celle qui implique un sens métaphysique, nous appartient seule ; et nous croyons qu'elle est incontestable, à condition qu'on ne revendique pas pour elle la priorité, qui revient certainement à l'explication matérielle._
 
 _A quelle époque faut-il la faire remonter ? La question est évidemment insoluble. Mais il n'y a rien de téméraire à affirmer que la doctrine, qu'elle semble condenser en un mot, existait au moins à l'époque classique, qui commence avec le Nouvel Empire. Elle s'est développée et affinée, compliquée plus tard de mysticisme et de spéculations ingénieuses et profondes. Il est difficile toutefois d'admettre qu'elle ne soit pas plus ancienne._
 
@@ -43,7 +43,7 @@ _Voilà pourquoi nous avons jugé utile d'esquisser d'abord à grands traits l'h
 
 _Voilà pourquoi également nous avons donné à ce travail un titre, qui en précise et en détermine exactement les limites. Si étroitement défini dans l'espace, il embrasse au contraire dans le temps toute la durée de la religion égyptienne, et nous avons tâché de suivre les transformations que subit le culte de Neit depuis les premières dynasties Memphites jusqu'aux Ptolémées, c'est-à-dire à l'époque où la pensée grecque, pénétrant peu à peu les vieux dogmes, les modifie en les éclairant par ses interprétations subtiles et ses ingénieux commentaires._
 
-_Le nom de notre déesse était_ Nit_, comme les transcriptions grecques le prouvent surabondamment. Mais il est très connu sous la forme Neit, adoptée dans la plupart des ouvrages qui traitent de mythologie ancienne, et nous avons craint de dérouter le lecteur, en lui imposant une prononciation nouvelle, qui paraît scientifiquement démontrée._
+_Le nom de notre déesse était_ Nit, _comme les transcriptions grecques le prouvent surabondamment. Mais il est très connu sous la forme Neit, adoptée dans la plupart des ouvrages qui traitent de mythologie ancienne, et nous avons craint de dérouter le lecteur, en lui imposant une prononciation nouvelle, qui paraît scientifiquement démontrée._
 
 D. M.
 
