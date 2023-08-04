@@ -59,10 +59,14 @@ Cette ville, c'est Saïs.
 
 *) Histoire d'Egypte, éd. de 1875, p. 31.
 
+*) V. _Brugsch._ Dictionn. géogr., p. 245.
+
+*) On trouve encore [HIERO] dans _Sharpe_ Inscript. 1, 16. Mais ce nom s'applique-t-il véritablement à Saïs ? --- Sais est désignée aussi par le groupe [HIERO], qui est traduit en Grec par [GREC].
+
 *) Note de l'éditeur : Meilleure approximation.
 
-*)
+Quelle est l'étymologie du mot ? On ne peut émettre là-dessus que de simples conjectures. Le mot [HIERO] qui signifie sol se présente le premier à la pensée. D'autre part, on trouve, dans les hiéroglyphes, le groupe [HIERO] avec le sens de tissu. Or comme nous le ferons remarquer plus loin, le déterminatif le plus habituel du nom de Neit, [HIERO], semble se rapporter à l'idée du tissage. On pourrait encore rapprocher du nom de Saïs le mot [HIERO] qui signifie lancer des flèches, et qui se réfère à une autre forme du déterminatif ajouté au nom de Neit dès les temps de l'Ancien Empire : [HIERO].* Ces diverses observations nous amènent à reconnaître, que très probablement le nom de la ville lui est venu de la déesse qui y fut principalement honorée.
 
-*)
+*) On a prétendu que Saïs signifiait olivier, à cause de l'hébrou [HEBREU] Mais Wilkinson, (Manners and Customs, 3, 40) observe avec raison que le nome Saïte n'était pas renommé pour la culture de l'olivier. C'est l'assimilation de Neit à Minerve qui a été cause de cette erreur. Diod. (liv. 1, 16) dit que les Egyptiens attribuaient le don de l'olivier à Hermès.
 
 ...
