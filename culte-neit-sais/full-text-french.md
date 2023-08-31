@@ -394,4 +394,93 @@ Ensuite le roi changea son nom et l'appela [HEBREU]. Ce mot composé a donné li
 
 *) Sammlung altægypt. Wörter.
 
+Le second mot pourrait encore être considéré comme se rapportant à la racine [HIERO], qui indique un verbe de mouvement (ordinairement : [HIERO]) et que l'on voit précisément développée par un _n_ paragogique dans le nom propre d'un personnage de la 5e dynastie, [HIERO], Pehen-uka. D'autre part M. Chabas a pensé, avec beaucoup de vraisemblance, retrouver dans le premier des deux mots une expression égyptienne composée : t'efa Neit [HIERO] , signifiant : les délices (ou : l'approvisionnement) de Neit.*
+
+Cette conjecture est rendue plus probable encore par le rapprochement avec le nom de la femme donnée par le Pharaon à Joseph : v. 45 : [HEBREU] donna pour femme Aseneit, fille de Potipra prêtre d'On. Ce nom d'Aseneth (Septte. : [GREC]) signifie clairement : celle qui est attachée à Neit, [HIERO]. Il est formé sur le modèle d'un grand nombre de noms égyptiens, par exemple : Neschons, Snachomneus, Nespouto, _etc._, de même que celui de Potiphra = [HIERO], le don de Ra. L'existence de ces noms est une preuve de plus que les Hyksos n'avaient point supprimé le culte national ni persécuté ses sectateurs, et qu'ils en avaient adopté eux-mêmes la plupart des pratiques. Comme le remarque très justement M. Chabas, un roi adorateur exclusif de Suteχ, n'eût pas choisi, pour son nouveau favori, un nom de cette espèce.
+
+*) V. _Revue archéologique_, ann. 1858, art. de Chabas sur le Papyrus Prisse. Mariette (Notice des principaux monts. du musée de Boulaq, p. 265), rapproche de ce mot composé la devise de bannière du roi Thébain Ra-uat'-χeper Kames, contemporain des Pasteurs : [HIERO] l'approvisionneur des deux mondes.
+
+On voit surtout, ce qui doit nous préoccuper ici, que Neit n'avait point cessé, pendant cette période de la domination étrangère, d'être reconnue pour une des principales divinités de l'Egypte. Le choix fait par le roi lui-même du surnom égyptien qu'il entend attribuer à son ministre, semble même indiquer une prédilection, une préférence marquée pour la maîtresse de Saïs.*
+
+*) D'après la liste d'Africanus, le premier des rois Pasteurs admis par Manéthon se serait appelé [GREC] ; mais Josèphe (contr. Apion) le nomme [GREC]. Si le témoignage d'Africanus était exact, on pourrait admettre que le roi en question avait fait de Saïs sa résidence.
+
+Sous le Nouvel Empire, les mentions de Neit abondent dans les textes. Quelques exemples suffiront.
+
+Sur un monument de la 18e Dynastie,* Neit figure comme mère d'Horus, c.-à-d. du soleil levant ; il y est dit qu'elle sauvegarde le soleil (Ra) en apparaissant sur la tête de son fils Hor, [HIERO].
+
+*) _Lepsius_, Denkm. 3, 26.
+
+Sur un autre* au contraire elle est donnée comme fille du Soleil, [HIERO], « amour de son cœur, résidant à sa place sur son front. » Ces deux qualités, ces deux rôles, qui, au premier abord, semblent s'exclure, se concilient pourtant sans trop de difficulté dans l'ensemble de la mythologie égyptienne.
+
+*) Id., _ibid._ 23.
+
+Elle est aussi la patronne des rois, leur protectrice et leur mère nourricière.
+
+Sur un obélisque, transporté à Constantinople et dressé dans l'hippodrome sous Théodose, Thotmes 3 est dit : [HIERO], nourri par
+Tum, en enfant, par les mains de Neit, la divine mère, pour être roi, s'emparant des régions, maître de dilater son existence, maître des fêtes d'anniversaires d'avènement.*
+
+*) _Lepsius_, Denkm. Abt. 4, pl. 60. _Pierret_, Cours de 1886.
+
+Dans un temple de Ramsès 1, à Biban-el-Moluk, le roi paraît donnant la main droite à Horus et la gauche à Tum, lequel la donne lui-même à Neit ; et, tandis que Tum d'Héliopolis dit : Je te donne le lever de Ra dans le ciel et que tu sois semblable à lui, Neit la grande, la divine mère, maîtresse du ciel, régente des dieux [HIERO] dit au souverain : [HIERO]. Je te donne le trône d'Osiris et que tu reposes sur lui pour l'éternité.*
+
+*) _Lepsius_, Denkm. Abt. 3, pl. 123.
+
+Le stèle du Louvre C, 218, érigée en l'honneur d'un personnage du temps de Ramsès 2, et que nous avons citée plus haut, lui donne les titres de scribe royal du S. et du N. pour l'enregistrement du palais, chef des choses qui se font dans la double demeure, ... interprète du maître de la double terre, _etc._ et enfin de : maître des mystères dans le temple de Neit, né à Ta-anχ et citoyen (litt. : gardien) de Saïs [HIERO] _etc_...*
+
+*) V. _Pierret_, Et. égyptol. Inscr. du Louvre, 2e partie.
+
+Parmi les sculptures peintes copiées par Champollion dans le tombeau de Meneptah 1 Hotp-hi-Ma, se trouvent quatre dieux et déesses affrontés deux à deux, d'une part Horus et Neit, de l'autre Isis et Anubis. Horus, à tête d'épervier, est appelé fils d'Isis, dieu grand, maître du ciel. Neit, portant sur la tête l'idéogramme de son nom [HIERO], est ainsi qualifiée : [HIERO] Neit la grande, la mère divine, maîtresse du ciel, régente de tous les dieux, dominant sur les pays étrangers.* Isis porte des titres analogues : [HIERO], ce qui prouve qu'alors l'identification est complète entre les déesses.
+
+*) _Champollion_, Monts. de l'Egypte et de la Nubie, pl. 242.
+
+C'est surtout depuis l'avènement de la dynastie Saïte et dans les siècles qui suivent que Neit prend décidément, dans l'ensemble du Panthéon égyptien, une place exceptionnelle. Elle devient alors non plus seulement la patronne de Saïs, mais celle de toute l'Egypte, et le titre de fils de Neit, pour les rois de cette époque, paraît avoir une importance à peu près égale à celle du titre de : fils de Ra. Mais nous reviendrons plus loin sur ces questions. Il nous a suffi dans ce chapitre, de démontrer, par les faits et par les textes, la perpétuité du culte de Neit en Egypte depuis les origines historiques jusqu'à cette époque de la 26e dynastie, où il devient plus florissant que jamais. Ce point définitivement acquis, il nous reste à en caractériser la signification et la portée.
+
+## Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.
+
+Champollion, dans son _Panthéon égyptien_, comprenait, sous le nom de Neit toutes les déesses. De même qu'Amon-Ra ou Cneph est le principe mâle de l'univers, ainsi, disait-il, Neit est le principe générateur femelle de la nature entière.
+
+Avec cette divination vraiment géniale, qu'il a portée en tout ce qui concerne l'Egypte, il avait senti dès lors l'unité sous la multiplicité apparente, l'identité des rôles cachée derrière la variété des noms.* Il avait parfaitement compris qu'il y a au fond de la religion égyptienne un principe passif, représentant l'état primordial de l'univers, le chaos, et un principe actif, le dieu mâle, qui, de la confusion primitive fait sortir le monde, en organisant la matière. Voilà pourquoi il résumait les fonctions de toutes les déesses sous le seul nom de Neit, principe femelle unique, y ajoutant les autres appellations reçues comme des épithètes, des qualificatifs, qui expriment des modifications particulières, des points de vue locaux, mais n'altèrent point dans son essence la signification générale du principe. Et, si l'on accepte l'interprétation du nom de Neit que nous soutiendrons plus loin, on reconnaîtra qu'il était impossible, entre les diverses désignations appliquées aux déesses par les monuments égyptiens, d'en choisir une plus large, plus compréhensive et, par conséquent plus juste à la fois et plus profonde. Cette conception du principe féminin ainsi entendu est en effet un des points les plus importants de la religion égyptienne, un de ceux qui en font le mieux comprendre le véritable sens philosophique. Sans doute, quand on étudie les cultes locaux, il convient de distinguer avec soin les différences qui séparent telle déesse de telle autre, la Maut thébaine par exemple de l'Hathor de Tentyra ou d'Isis, _etc._, il importe de bien marquer les attributs, les rôles particuliers à chacune d'elles. Mais si d'une vue plus haute on prétend embrasser les grandes lignes et déterminer la direction générale des idées, on peut et on doit grouper en un seul faisceau toutes ces personnifications diverses, puis, éliminant les divergences, dégager les notions communes, la pensée qui domine l'ensemble.
+
+*) Au moins à l'époque classique, sous la 18e dynastie et les suivantes.
+
+Les déesses ont deux formes, deux rôles principaux. Elles sont ou la mère du soleil, c'est-à-dire l'espace au sein duquel il est engendré, ou sa fille, c'est-à-dire l'effet produit dans le monde matériel par la chaleur, par le rayonnement solaire. Examinons d'abord cette seconde conception, beaucoup moins profonde que la première. Le soleil semble s'incarner dans les déesses armées de flèches, symbole des rayons qu'il darde ; elles sont dites alors : l'œil de Ra [HIERO]. « Elles exercent sur lui, à sa droite et à sa gauche, un double protection symbolisée par ses deux yeux, par les deux plumes de sa coiffure, par les deux parties de son diadème et les deux urœus dont il est orné.* » C'est ce que le _Todtenbuch_, en son langage mystique, exprime, par cette phrase souvent citée : « Ses deux plumes sur sa tête, c'est la marche d'Isis avec Nephthys, qui font sa protection à l'état d'être jumelles ; c'est là ce qui est placé sur sa tête. Autrement dit, ce sont les deux très-grandes urœus, qui sont au front de son père Tum. Autrement dit, ce sont ses deux yeux, ses deux plumes sur sa tête.* »
+
+Or, Isis et Nephthys n'ont point le monopole absolu de cette fonction protectrice. Les autres déesses, et Neit en particulier, sont aussi très souvent appelées : œil de Ra, œil du Soleil. On peut donc dire que, de ce côté, il y a identité entre la plupart des grandes déesses, quelque variées que soient les appellations qu'elles reçoivent, suivant les divers temples où chacune d'elles est spécialement honorée.
+
+Mais ce n'est là qu'un des deux aspects sous lesquels on avait coutume de les considérer ; le prermier est, croyonsnous, d'une tout autre importance. Que les déesses aient été regardées comme l'espace dans lequel se produit la naissance du Soleil, cela est hors de doute ; il suffit de rappeler que le nom même d'Hathor [HIERO] signifie : la demeure d'Horus, c.-à-d. le lieu où il est conçu ; que Maut, Isis, Neit, _etc._ sont appelées sans cesse : mère du Soleil désigné par les personnifications de Ra, de Chons, d'Osiris ; que des tableaux et des inscriptions sans nombre représentent le dieu sortant du sein de Nut ou apparaissant au haut des cuisses de la vache Meh-ur-t, _etc._ Or, la naissance du Soleil, c'est, dans la cosmogonie égyptienne, le premier acte de la création.
+
+*) _Pierret_, Le Panthéon égyptien, p. 32.
+
+*) _Todtenb._ C. 17, 11.
+
+On est donc en droit d'affirmer que les déesses, ainsi comprises, personnifiaient l'espace sans bornes, où se produisent, depuis le commencement des temps, les innombrables transformations de la vie. Il n'y a pas loin de là à la conception d'une substance primordiale, infinie dans l'étendue et dans le temps, douée d'une infinité d'attributs, et faisant sortir d'elle-même, concrétant, par un acte plus ou moins volontaire, les virtualités qu'elle renfermait en son sein.
+
+La première des deux théories, celle qui fait des déesses un symbole vivant du rayonnement solaire, est évidemment très caractéristique et propre à l'Egypte. Mais c'est là un point de vue tout extérieur, une manière en quelque sorte vulgaire de figurer leur action. L'autre est beaucoup plus élevée et plus suggestive, car elle représente la divinité femelle comme le [GREC], c'est-àdire la substance et le lieu de la création.
+
+Si l'on examine dans cet esprit la triade égyptienne, telle qu'elle se définit à Héliopolis, à Thèbes, à Abydos, à Eléphantine, on constate une sorte d'égalité entre les deux principaux membres qui la composent : Amon et Maut engendrant le dieu Chons, Osiris et Isis donnant le jour à Horus. Tous deux paraissent à peu près sur le même plan, au même titre que le père et la mère dans la génération naturelle. Néanmoins on peut attribuer une certaine supériorité au dieu mâle, comme représentant le principe actif, comme possédant en lui le germe, qu'il dépose et qui fructifie, qui se développe dans le sein de la déesse.* Cela est conforme à la doctrine des naturalistes anciens, qui regardaient l'homme comme l'auteur principal de la génération.
+
+*) L'Inde Védique se représente également la création comme une génération sexuelle. « Pouroucha, le divin mâle, s'unit à Pradhânâ, la matière, et de ce commerce sortent tous les êtres. La naissance de l'homme a fourni à tous les peuples de l'antiquité l'image de celle du monde entier... On a donc là une triade, une trimourti, qui fait le pendant de la triade physique formée d'Agni (le feu), de Vâyou (l'air) et de Soûrya (le Soleil). » _A. Maury_, La relig. des Aryas, p, 119.
+
+Les Egyptiens d'ailleurs, habitués à reconnaître à la femme une importance sociale, un rôle qu'elle n'a point chez les autres nations de l'antiquité, intervertissent quelquefois cet ordre naturel et font passer la déesse avant le dieu. Ainsi la triade d'Edfou est la même que celle de Dendera ; mais tandis qu'à Edfou, Hor-hut est le premier, à Dendera, c'est Hathor, le principe femelle, qui occupe la première place.*
+
+*) V. _Mariette_, Dendera, p. 81.
+
+A Saïs, point de triade divine. Osiris est honoré à coté de Neit, il est son fils, mais il n'est point son mari, son fécondateur et ne procrée point avec elle un dieu-enfant destiné à le remplacer. Neit est qualifiée, il est vrai, de mère d'Horus, parcequ'elle est mère du Soleil et qu'Horus est une des formes du Soleil, de même qu'elle est dite ailleurs mère de Ra ou d'Osiris. Mais nous ne voyons nulle part de triade composée de Ra ou Osiris avec Neit et Horus, considérés comme père, mère et fils.
+
+M. de Rougé avait déjà remarqué qu'à Saïs Neit jouait le principal rôle. On peut même dire qu'elle y était tout, Osiris ou Horus ou Ra, présenté comme son fils, émanant directement d'elle, de sa substance, sans aucune intervention étrangère. Nous indiquerons plus loin certaines comparaisons possibles avec des conceptions cosmogoniques, sinon semblables, du moins assez analogues. Mais il convenait de marquer immédiatement cette différence radicale qui distingue la théorie Saïte et lui assigne une place à part, au milieu de celles qui sont professées dans la plupart des temples de l'Egypte.
+
+Plusieurs des textes que nous avons déjà relevés indiquent que Neit était révérée en des localités très diverses.
+
+Elle était, nous le savons, la déesse principale du 4e et du 5e nome de la Basse-Egypte.* Mais son culte se retrouve bien ailleurs. Ainsi dans la métropole du nome χesef-pehu (Lycopolites posterior),* avec Osiris, Tum et Hathor.
+
+*) _Brugsch_, Géogr. 1, 141.
+
+*) Id. ib. 219.
+
+A Memphis, elle avait un temple appelé « le temple de la Neit de Saïs, » que M. Brugsch a vu nommé sur un monument, dans les ruines de la ville.* C'est à cet édifice que devaient être attachées les nombreuses prêtresses de Neit, dont nous avons retrouvé la mention sur les stèles des premières dynasties ; ces indications auraient suffi, à priori, pour affirmer l'existence du sanctuaire, dont le savant allemand a retrouvé le titre expressément gravé sur la pierre.*
+
+*) Id. ib. 238.
+
+*) Dans le tombeau de Ti [HIERO] à Sakkarah, 5e dynastie, sa femme Neferhotep-s est qualifiée : prophétesse d'Hathor neb-nehat et de Neit [HIERO] mehit sebti, du rempart du Nord. M. de Rougé (Rech. sur les 6 premières dyn. p. 311) remarque que ce titre de Neit rappelle le titre de Ptah du rempart du midi, à Memphis. Le temple de Neit devait donc se trouver dans la partie de la ville opposée à celle où s'élevait celui de Ptah.
+
 ...
