@@ -1146,4 +1146,230 @@ Nous avions l'intention de donner ici une énumération aussi complète que poss
 
 ## C. Représentations Figurées.
 
-...
+St. Clément d'Alexandrie* rapporte que les plus sages des prêtres égyptiens avaient établi le sanctuaire de Minerve à l'air libre, [GREC], comme firent les Hébreux, et qu'ils n'y avaient placé aucune image. Il ne peut être question, en cet endroit, que des prêtres de Saïs et de la demeure de Neit. Ce renseignement parait d'abord concorder on ne peut mieux avec tout ce que nous avons vu précédemment Cependant il existait des statues dans le grand temple de Saïs, les témoignages des écrivains grecs ne permettent pas d'en douter. Il n'est pas impossible toutefois de concilier ces deux affirmations, en apparence contradictoires. Les temples annexes, les chapelles contenues dans la grande enceinte de Saïs renfermaient certainement des figures divines. Mais on peut très bien admettre que l'adytum de Neit, sa demeure particulière fût en effet vide de toute image.* Cette préoccupation des Saïtes de la laisser à l'air libre, sans rien qui l'emprisonnât, pour ainsi dire, sans aucune représentation qui pût la particulariser et par conséquent l'amoindrir, répondrait bien à la grande idée qu'ils se faisaient de leur divinité principale. L'être absolu ne s'enferme pas sous le toit d'un temple et ne saurait se confiner dans les flancs d'une statue de pierre ou de métal. Tout cela, comme le remarque St. Clément, présente une conformité singulière avec la façon dont les Hébreux comprenaient l'essence du Dieu un.*
+
+*) Stromates, l. 5, p. 239.
+
+*) Mariette écrit, dans sa Notice des monuments de Boulaq : « Quant aux statues de dieux proprement dites, je n'ose pas dire qu'il y ait eu dans chaque temple une statue qui ait été appelée plus spécialement la statue de ce temple. Les édifices du culte ne manquaient certes pas d'images divines ; mais chacune avait un service particulier, et aux prières qu'elle entendait était toujours mêlé le nom du personnage qui l'avait consacrée. Une statue représentant le dieu absolu du temple, abstraction faite du dédicateur, n'existait peut-être pas, le naos paraît en avoir tenn lieu et il cachait au vulgaire la vue du symbole vivant ou inanimé qu'on regardait comme le représentant le pins direct de la divinité. »
+
+*) Cf. l'hymne du Papyrus Sallier 2 (pl. 12, l. 6-8 et Anastasi 7, pl. 9, l. 1-3, cité par M. Maspero (Etudes égyptiennes p. 43-44) : On ne taille point Dieu dans la pierre, [ni dans] les statues sur lesquelles on pose la double couronne ; on ne le voit pas ; nul service, nulle offrande n'arrive jusqu'à lui ; on ne peut l'attiter dans les cérémonies mystérieuses ; on ne sait pas le lieu où il est ; on ne le trouve point par la force des livres sacrés.
+
+Mais la véritable nature de Neit n'était connue que du petit nombre de ceux qui l'adoraient en esprit et en vérité. La foule ne pouvait se contenter de ces abstractions froides et pour elle incompréhensibles. Aussi, dans l'enceinte même de Saïs et ailleurs, offrait-on à sa vénération des figures, qui avaient du moins le mérit de rendre sensible la présence de la divinité, de la rapprocher de ses adorateurs, de leur donner, par des symboles, une haute idée de sa puissance. En effet, tous les recueils de monuments, ceux de Champollion, de Rosellini, de Lepsius, de Wilkinson contiennent des figures de Neit, avec les divers attributs qui caractérisent chacun de ses rôles.
+
+Elle y paraît assez fréquemment avec les flèches et quelquefois l'arc, comme une déesse solaire. Sur certains monuments de la 18e dynastie, elle se tient même auprès du roi et lui apprend à tirer de l'arc.
+
+Ici, elle est figurée assise ou debout, la couronne rouge en tête, tenant dans la main droite la croix ansée et, dans la gauche, un arc, deux flèches croisées et un sceptre à tête de levrette ou à fleur de papyrus.* Ailleurs, elle est debout, la tête surmontée des deux flèches, la main droite portant le signe de la vie, tandis que la gauche s'appuie sur le bras levé du dieu Khem ithyphallique.* Sur le naos d'Amasis, au Louvre, D, 29, on la voit agenouillée sur un socle cubique, bandant un arc et prête à lancer une flèche, avec la légende : [HIERO], Neit, dame de Saïs.* Ce sont là, comme on voit, autant d'allusions à ses fonctions solaires. Elle représente alors simplement la chaleur, le rayonnement de l'astre, rôle secondaire, accessoire, qui lui es commun avec la plupart des autres déesses.
+
+*) _Wilkinson_, Manners, 3, 40. _Lepsius_, Denkm. Cf. _Lanzone_, Dizion. di Mitologia, tav. 175, 2 et 176, 3.
+
+*) _Lepsius_, Denkm. 2, pl. 150, île de Konosso. _Lanzone_, pl. 176, 4.
+
+*) Dans le Livre de l'hémisphère inférieur (_Pierret_, Inscr. du Louvre, 1ère part. p. 123) on voit Neit debout, coiffée de la couronne [HIERO] et devant elle deux arcs [HIERO].
+
+Sur un couvercle de sarcophage du Musée de Turin, No. 2202, au nom d'Aba, on la voit debout, la tête surmontée de la navette de tisserand [HIERO], avec le signe [HIERO] et le sceptre _uas_, et à côté d'elle on lit : [HIERO]. Dit Neit, la grande, la mère divine : J'ai rejoiut mes deux bras au-dessus de toi, Osiris Aba, étant en protection toute pour l'éternité.*
+
+*) _Lanzone_, Dizion. di Mitolog., tav. 176, fig. 3.
+
+A Biban-el-Moluk, elle paraît également, ayant sur la tête l'hiéroglyphe ordinaire de son nom, ainsi dessiné [HIERO], et avec la légende : [HIERO].*
+
+*) _Lepsius_, Denkm. 3, 123.
+
+A la planche 26 des Monuments de Champollion, la voici debout, avec la couronne rouge, une fleur de papyrus dans la main gauche et dans la droite une sorte de sistre surmonté d'un autel, sur lequel se dresse un épervier, couvrant de ses ailes étendues une petite statue assise. La légende est : [HIERO].* Ces dernières représentations ont trait aux attributions funéraires de notre déesse.
+
+*) _Champollion_, Mon. 1, 26, No. 2. _Lanzone_ Dizion. tav. 176, fig. 2.
+
+Ainsi que les autres grandes déesses dans leur rôle de mères du Soleil, elle s'incarne, nous l'avons vu, dans la vache Meh-ur-t, symbole de la maternité divine. Sur un torse du Musée de Naples,* elle est réprésentée ainsi dans une barque, ornée à la proue d'une tête de lion et à la poupe d'une tête de bélier. Au cou de la vache est suspendu le [HIERO] et sur sa croupe est assis le bélier d'Osiris ; puis, au-dessus de la scène se lit une courte inscription horizontale ainsi conçue : [HIERO]. Neit, la vache qui enfante Ra. En avant de ses jambes est placé l'œil sacré, [HIERO] _ut'a_.*
+
+*) No. 401. Cf. _Lanzone_, Dizion. tav. 177, fig. 1.
+
+*) No. 401. Cf. _Lanzone_, Dizion. tav. 177, fig. 1.
+
+Une idée abstraite, comme celle que nous avons reconnue au fond de la doctrine Saïte, ne saurait évidemment être figurée aux yeux. Aussi ce que les monuments nous offrent la plupart du temps, ce sont des symboles en relation avec les fonctions extérieures et toutes matérielles dévolues à Neit dans le Panthéon égyptien. Pourtant, lorsqu'on la voit, les deux mains étendues, avec le signe de l'eau sortant de chacune d'elles, c'est la vie qu'elle répand, la fécondité symbolisée par l'eau, principe fertilisateur, comme si elle était la source même de l'existence* : car les Égyptiens, nous l'avons vu, faisaient généralement sortir toute la création de l'élément humide.*
+
+*) _Wilkinson_, Manners, 3, 41.
+
+*) Cf. _Brugsch_, Religion und Mythologie der alten Ægypter.
+
+Lorsque Neit est représentée ailleurs ramenant ses deux bras sur sa poitrine, ce geste signifie ou le mystère, _šeta_,* comme dans la figure du dieu caché, _Amen_, les bras serrés et enveloppés dans un manteau qui les couvre, ou bien le fait d'embrasser, de contenir, rendu par l'épithête [HIERO], que nous avons rencontrée plus haut. Lorsqu'elle parait avec le signe [HIERO] sur la tête, au lieu de l'hiéroglyphe ordinaire de son nom [HIERO] ou de la couronne rouge [HIERO], elle est la mère d'Horus, le soleil renaissant, fils de Ra, et qui est Ra lui-même. Seulement, on dirait que par un enfantement d'un nouveau genre, il sort de sa tête, tandis que, dans la mythologie Grecque, c'est Minerve au contraire, qui sort tout armée de la tête de Jupiter.
+
+*) Cette forme divine avait, nous l'avons vu, une chapelle ou tout an moins une statue dans le grand temple de Saïs. V. la figure dans _Wilkinson_, loc. cit.
+
+Le Musée du Louvre possède un grand nombre de statuettes de la déesse Neit, la plupart en bronze, quelques-unes en albâtre ou en terre émaillée.* Elle est représentée tantôt assise tantôt debout, toujours portant sur la tête la couronne du Nord.
+
+*) Salle des dieux. Armoire B.
+
+Assise, elle a les deux mains fermées posées sur les cuisses, l'une le pouce en l'air, l'autre le pouce en dedans.
+
+Debout, elle tend la main gauche en avant, et on y aperçoit un trou, où était passée la tige de papyrus, presque partout disparue. L'autre tombe droit le long du corps.
+
+Souvent elle porte un collier à plusieurs rangs de dorures. Sa robe collante l'enveloppe tout entière, en moulant exactement les formes.
+
+Toute une série de figurines de dimensions extrêmement réduites la représentent, toujours dans la même attitude, seulement les deux mains attachées au corps, sans doute à cause des difficultés de la fabrication.
+
+Nous en signalerons une, de quelques centimètres de haut, (No. 329), où la déesse paraît être enveloppée dans un grand manteau, qui voile complètement les formes. Serait-ce là une réduction, infiniment petite, de la fameuse statue, dont parlent Plutarque et Proclus et dans l'inscription de laquelle la déesse se vantait que personne n'avait soulevé sa tunique ? Le fait n'aurait rien d'impossible. Malheureusement les proportions en sont trop restreintes et l'exécution trop imparfaite, pour qu'il soit aisé, en la grandissant par l'imagination, de reproduire celle qui lui avait peut-être servi de modèle.
+
+Trois fois elle est figurée avec un double Horus : 1o. au No. 337, groupe d'albâtre, où Neit est assise sur un trône, dans l'attitude ordinaire, et n'ayant d'autre insigne que la couronne. Deux petits Horus enfants se tiennent de chaque côté du siège ; 2o. au No. 338, groupe de bronze. Les trois personnages qui le composent sont debout dans l'attitude de la marche, le pied gauche tendu en avant. Les deux enfants, avec la tresse, le doigt dans la bouche, sont placés devant, sur la même ligne, et s'avancent vers le spectateur. La déesse, plus grande des deux tiers environ, les suit et on dirait qu'elle les dirige et les protège.
+
+Un groupe analogue, récemment acquis, No. 388bis, est d'une exécution plus parfaite et d'une conservation meilleure.
+
+Neit porte dans la main gauche le sceptre à fleur de papyrus. Sa couronne, enrichie de dorures posées par lignes verticales, a perdu l'appendice supérieur. Un collier doré est appliqué sur le bronze. La déesse se trouve surélevée sur une sorte de marchepied ou de piédestal, plus haut que ceux sur lesquels posent les deux Horus. Les trois personnages sont en marche, comme dans le groupe précédent. Les Horus sont nus, avec la tresse et le doigt à la bouche ; mais ils ne sont point de même taille : celui de gauche, plus grand, est Horus l'ainé, Haroëris, et il porte le pschent ; l'autre, plus petit, n'est décoré que de la couronne du Nord. Devant leurs pieds, règne une inscription en caractères excessivement menus.
+
+Neit est mère du soleil, de Ra, donc elle est mère d'Horus ; ainsi ces représentations n'offrent aucune difficulté. Quant à-la présence des deux Horus, elle pouvait tenir à ce système général de dualité que l'on retrouve partout en ce qui a trait au Soleil et à sa course et que M. Grébaut a exposé avec une clarté si lumineuse. De plus, il y avait en réalité deux Horus distincts dans le système de la religion égyptienne.
+
+Voici maintenant deux statuettes en terre revêtue d'émail bleu : la déesse tient, de ses deux mains, deux crocodiles suspendus à ses mamelles. Ce même groupement se rencontre également ailleurs dans des représentations du même genre.* Les crocodiles sont ici des personnifications de Sebek, ou Sevek, dieu du Fayoum. Le crocodile, qui est parfois un symbole du mauvais principe, caractérise quelquefois au contraire l'Horus vainqueur des puissances mauvaises, comme dans ce même Sebek, et dans le Hor-Khenti-Khat, qui sur le naos d'Amasis (Louvre, D, 29) porte lui aussi une tête de crocodile surmontée de l'_atef_. Il est donc fort probable que ces deux jeunes crocodiles équivalent aux deux Horus que nous avons vus précédemment,* et la déesse qui les nourrit est toujours l'être primordial, qui fait vivre de sa substance la nature entière.*
+
+*) _Champollion_, Panthéon ég. pl. 23, a. Torse du Musée de Naples, No. 401. Cf. _Leemans_, Monts. de Leide 1, A, b, 1053, pl. 12. _Lanzone_, Dizion. tav. 175, fig. 3.
+
+*) Cf. _P. Pierret_, _Catal de la Salle des dieux_, Explication du No. 339bis.
+
+*) On peut expliquer encore les deux crocodiles comme figurant Osiris. En effet, comme l'a remarqué Chabas, l'introduction de la 2e partie du Papyrus Prisse s'adresse à Osiris sous son nom de « double crocodile » ; et, dans le Todtenbuch, Ch. 142, 43e invocation, Osiris est appelé : double crocodile. Du reste, le mythe est toujours le même. Horus, c'est Osiris renaissant. Or Neit à Saïs est appelée la mère d'Osiris, et un sanctuaire vénéré de ce dieu faisait partie, comme on l'a vu, des annexes de son temple.
+
+Cette traduction du mythe a quelque chose de grossier et de matériel. Nous remarquerons toutefois que ces figurines sont d'une matière commune employée pour les statuettes d'usage ordinaire, comme les figurines des tombeaux, tandis que la plupart des autres sont en métal ou en albâtre. Il est à croire que ces statuettes émaillées étaient destinées au vulgaire, et qu'on n'avait pas craint, à cause de cela, de matérialiser les symboles. La fécondité du premier principe y était exprimée d'une manière un peu lourde peut-être ; mais la pensée n'en ressortait qu'avec plus de saillie et l'impression sur l'esprit des ignorants n'en devait être que mieux gravée.*
+
+Wilkinson reproduit (3, 228), la figure d'une déesse, la tête surmontée du bouclier traversé par les flèches [HIERO], et tenant sur la main gauche un enfant (Horus), pendant que de sa main droite, à demi levée, elle semble le bénir et le protéger. Birch a très bien vu qu'il s'agissait encore ici d'une forme de Neit, portant Horus, c.-à-d. le soleil, sur son bras, et lui donnant la vie, [HIERO], comme le dit l'inscription qui est jointe à la figure. Cette fois, elle ne nourrit pas le dieu-fils, comme font les autres déesses, Isis ou Hathor. Elle ne lui présente pas le sein, elle ne lui donne pas le lait, comme une femme. Elle n'a pas besoin d'user des moyens humains, matériels, pas plus que pour enfanter elle n'a dû recevoir le germe d'un dieu mâle. Un signe lui suffit, une sorte d'imposition des mains, pour inspirer, pour conserver la vie à l'enfant. Nous voyons là un de ces gestes exprimant une opération magique, ou plutôt une sorte d'influence mystérieuse, de magnétisme, comme les monuments égyptiens en montrent des milliers d'exemples.*
+
+*) Le British Mnsenm possède une égide de Neit, avec la tête de la déesse et l'usekh.  Des couronnes du Nord, en émail vert, comme on en voit au Louvre, vitrine N (Salle des dieux) devaient être portées comme amulettes, en l'honneur de Neit, par les fidèles particulièrement dévots à son culte.  On voit encore Neit représentée dans les curieuses stèles d'Horus sur les crocodiles. Elle y paraît ordinairement au troisième registre.
+
+*) Au Louvre, (armoire B, Salle des dieux) le numéro 339 comprenait autrefois un groupe de trois déesses, placées l'une à côté de l'autre, debout, sur le même plan : mais il est aujourd'hui incomplet et il n'en comprend plus que deux. Celle du milieu, plus grande, est Seχet, à tête de lionne, avec le disque et l'urœus sur la tête ; elle marche, une main tendue en avant. A sa gauche, Neit avec la couronne rouge, la longue robe collante, la même pose des mains. Mais à droite existait une autre statuette, qui aujourd'hui a disparu ; on voit seulement dans la plaque la cavité où elle était fixée. Qui représentuit-elle ? Sans doute une déesse personnifiant le Midi, par exemple Neχeb, Sati, ou quelque autre. Mais ne connaissant que par conjecture le troisième personnage du groupe, nous ne voulons pas nous aventurer davantage.  Le groupe No. 398 est formé de Ptah ayant Seχet à sa droite, et à sa gauche une autre déesse, qui pourrait être ou bien Neit avec la couronne du Nord, ou Isis avec le siége, hiéroglyphe de son nom.
+
+## D. Neit et [GREC].
+
+On a prétendu que le nom Grec d'[GREC] était identique à celui de la Neit égyptienne, que les Grecs avaient lu le mot [GREC] à rebours, en se contentant d'ajouter un [GREC] au commencement et à la fin. Cette explication peut être fort ingénieuse ; malheureusement, elle ne supporte pas l'examen. Elle n'a été imaginée que pour justifier l'assimilation entre les deux déesses, et elle suppose ce qu'il faudrait démontrer, à savoir que la Minerve athénienne dérive réellement de Neit.
+
+Pour que le nom d'[GREC] fût venu de celui de [GREC], il faudrait admettre, comme l'a fait remarquer M. Em. Burnouf* : « 1°. que l'un des deux [GREC] qui commencement et terminent le mot n'a aucune valeur, l'autre étant la terminaison du féminin ; (de plus, le dernier porte l'accent, ce qui est inexplicable si le nom grec vient de Neith puisque l'accent devrait rester sur la voyelle du nom Egyptien) ; 2°. un renversement tel que celui de _Neith_ en _thén_ ne se rencontre pas dans les langues, et l'on sent que la raison tirée de l'écriture boustrophédon est puérile ; 3°. pourquoi d'ailleurs _ei_ changé en _e_ et cette introduction de l'aspirée [GREC], puisque le nom de la déesse égyptienne n'est pas _Neith_ mais _Neit_* et qu'aucun des éléments du mot ne provoque l'aspiration ? Enfin [GREC] est la forme ionienne du mot grec, mais à Athènes on disait : [GREC] et la forme dorienne antérieure est [GREC].* »
+
+*) La légende athénienne, pp. 71-72.
+
+*) Le vrai son devait être Nit, comme le prouvent les transcriptions grecques : [GREC].
+
+*) D'après Max Muller (Nouv. Leçon sur la Sci. du Langage, 2, pp. 252 et suiv.) le nom d'Athênê aurait pour origine la racine _ah_, qui a donné en sanscrit _Ahanâ_, l'Aurore. Il montre, par des exemples de permutation analogues, que la racine _aha_, qui serait régulièrement en Grec _ach_, aurait également pu revêtir la forme _ath_. Quant à la terminaison, c'est la même que dans Sélênê : le sanscr. _ânâ_. Par conséquent, Athênê correspondrait à une forme sanscr. Ahânâ, laquelle ne diffère que légèrement de Ahanâ, un des noms consacrés de l'Aurore dans le Véda.  M. J. Darmesteter (Ormuzd et Ahriman, 34) rapproche Athênê de Atar, le feu, fils d'Ahura-Mazda, comme Athênê est fille de Zeus. Il fait remarquer (55) que, dans le Véda, Varuna, le ciel, est le père d'Atharvan, l'éclair, et il rattache [GREC] à la même racine. (V. la série des preuves résumée dans : _Decharme_, Mytholog. de la Grèce anc, p. 77, note.)
+
+L'identification des dieux grecs avec les dieux égyptiens remonte assez loin dans l'histoire. Les Grecs convaincus de l'antiquité de la civilisation égyptienne, qui en effet avait de longtemps précédé la leur, croyaient anoblir leurs dieux en les confondant avec ceux des bords du Nil.
+
+M. A. Maury (hist. des relig. de la Grèce, 3, 265 et suiv.) pense que la fusion commença par la fréquentation des Cyrénéens au temple d'Amon, situé dans l'oasis de Libye, lesquels, de connivence avec les prêtres égyptiens, forgèrent des fables sur Amon-Zeus. Des Libyens, venus en Elide pour les jeux Olympiques, y apportèrent le nouveau culte ; et bientôt l'oracle de l'oasis fut considéré comme un des plus grands. Alcibiade, Epaminondas, Lysandre, Cimon lui demandèrent des conseils en des circonstances difficiles.
+
+La Cyrénaïque, contrée toute grecque eut un mouvement religieux propre, ce qui fit croire aux Hellènes que la Libye était une des contrées d'où ils avaient tiré la connaissance de plusieurs de leurs dieux, par exemple l'Athênê Tritogénie et Poséidon. Les divinités égyptiennes, Isis, Thot, Khons, Ptah, Min ou Khem, Mentu passèrent plus tard en Grèce, lorsque des relations régulières et fréquentes furent établies entre les deux pays.
+
+« Une déesse que sa ressemblance avec Athênê introduisit aussi dans le Panthéon hellénique (Maury, 3, 287) est Neith, honorée d'un culte spécial à Saïs, et qui affectait particulièrement le type de divine mère. » Le même auteur pense que le principal motif du rapprochement fut l'analogie des deux noms.
+
+Dès le temps d'Hérodote, cette assimilation était faite, comme tant d'autres dont il nous a conservé le souvenir. Au livre 2 de son histoire, c. 175, et ailleurs, parlant de la déesse de Saïs, il la désigne toujours par le nom d'[GREC]. Platon partage la même manière de voir, puisque, dans le Timée, (21), il dit des habitants de Saïs : [GREC]. Beaucoup plus tard, Pausanias (9, 12, 2) adopte la même idenfication. Plutarque assimile Athêna à Isis (de Is. et Os. 9) ; mais c'est de Neit qu'il semble vouloir parler.
+
+Nous avons vu d'autre part Hérodote (2, 171), comparer les cérémonies nocturnes accomplies sur le lac, dans l'enceinte du grand temple de Saïs, aux mystères Grecs, mais spécialement aux Thesmophories, qui avaient rapport au culte de Cérés.* Il y avait là en effet, comme à Eleusis, une veillée générale, pendant laquelle on allumait des lampes en plein air.
+
+*) C'est à Isis que les Grecs avaient coutume de comparer plus particulièrement leur Dêmêter. _Clém. d'Alex._ Strom. 1, 21, p. 139 : [GREC]. (Fragm. historic-grœc. 2, 331, 2). Léon de Pella était contemporain d'Alexandre.
+
+Quoiqu'il en soit, le culte de l'Athênê saïtique fut d'assez bonne heure apporté en Grèce, et on s'efforça d'imiter tout ce qui caractérisait la déesse de Saïs. Sur le mont Pontios, près de Lerne en Argolide, Pausanias (2, Cor. 36) visita les ruines d'un temple de Minerve Saïtique. On y célébrait aussi (Creuzer 2, 719) des mystères sur le lac d'Alcyone, parceque c'était là que Dionysos* était descendu aux enfers pour en ramener Sémélé, sa mère.
+
+*) Dionysos avait été assimilé à Osiris.
+
+Une des sept portes de la Thèbes de Béotie avait été, disait-on, appelée Neitha par Cadmus, en l'honneur de la Neit égyptienne.
+
+Mais ce n'est point sous son véritable nom qu'elle obtint en Grèce une véritable faveur, ce fut sous le nom d'Athênê.
+
+Minerve passait pour être originaire de Libye, du lac Triton, nom commun à plusieurs fleuves (du sanscr. _trit_ rivage, _ri_, aller, _ati_ au delà). Son culte étant en grande faveur chez les Minyens établis en Libye, elle reçut le nom de [GREC], et elle fut considérée sous ce nom comme née des eaux, comme une personnification du principe humide.*
+
+*) _Pictet_, Les orig. indo-europ. 3, 452, remarque qu'on trouve un nom certainement fort ancien de la mer dans l'irlandais _triath_, an génit. _tréthan_. Un rapport semble évidemment exister ici avec le [GREC] grec, fils de Neptune et d'[GREC], dont le nom se rattache à la même racine.  Suivant _Preller_, (Griech. Mythol., 125), [GREC] personnifie la mer agitée, les eaux primitives, le vieil Océan d'où étaient sortis l'esprit, l'air et le ciel. L'épithète de [GREC], donnée à Minerve, a dû signifier : née de l'Océan. Le nom de _Triton_, devenu celui de toute une troupe de dieux marins, fut appliqué également à des lacs et à des fleuves en Libye et en Grèce, et devint la source des légendes concernant Minerve et sa naissance. (Cf. aussi le dieu _Trita_, et le _Traitâna_ du Rig-Veda, le Thraêtona de l'Avesta, _etc._)  Tout cela, on le voit, nous éloigne singulièrement de Neit, et les raisons se multiplient pour douter que le culte de Neit soit, comme on l'a prétendu, originaire de Libye.
+
+Athênê étant souvent considérée comme Libyenne et Neit se confondant avec Athênê, on a été porté à admettre que le culte de Neit venait primitivement de la Libye.* Cependant, nous ne pouvons voir là autre chose qu'une véritable transposition ; et, comme l'antériorité appartient évidemment à la déesse égyptienne, il est impossible de se fonder sur l'assimilation avec Athênê pour la faire venir, comme elle, de Libye.
+
+*) _Beulé_, Acrop. d'Athènes, 1, 13 : « Les faits déclarent que le culte de Minerve était passé d'Afrique en Grèce. »
+
+Creuzer (2, 727) dit que la Neith-Athênê de Saïs était née du sein des eaux, aussi bien que la Pallas du lac Triton. Et il s'appuie sur l'autorité de Cicéron, _De Natura Deor._ 3, 23 : Minerva secunda, orta Nilo, quam Ægyptii Saïtæ colunt. Clément d'Alexandrie appuie ce témoignage, lorsque, raillant la multiplicité des dieux païens, après avoir constaté qu'il y avait trois Jupiters, il ajoute (Strom. p. 8) : [GREC] Ces renseignements, de date récente, ne peuvent nous fournir de grandes lumières sur l'origine ni sur le rôle d'une déesse si ancienne.
+
+Il faut donc chercher d'autres raisons plus solides de l'assimilation de Neit et d'Athênê.* Nous les trouvons dans la ressemblance de plusieurs de leurs attributs et de leurs fonctions, et c'est là certainement ce qui avait décidé Hérodote, Platon et les autres écrivains grecs à les confondre dans une personnalité unique.
+
+*) Cette identification paraissait si bien établie qa'[GREC] elle-même était désignée, nous l'avons vu, par le nom de la ville de Neit. Et il en aurait été de même en Egypte, d'aprés Charax de Pergame (Fragm. bistor. græc. 3, 639, 11) : [GREC].
+
+Elles paraissent avoir eu l'une et l'autre un double caractère et, par suite, deux grandes classes d'attributs : on les donne volontiers pour des divinités guerrières, [GREC], et cependant d'autre part elles président non moins souvent aux arts de la paix.
+
+Nous l'avons constaté pour Neit, qui, fréquemment représentée avec un arc et des flèches, semblait par cela même se complaire dans les travaux guerriers. C'est là peut-être une simple erreur populaire, même en Egypte, les flèches étant comme nous l'avons dit, le symbole du rayonnement solaire que personnifient les déesses ; mais c'était une erreur fort répandue, et nous en voyons la preuve lorsque nous rencontrons, dans des sculptures du temps de la 18e dynastie, Neit placée derrière le roi et lui apprenant à tirer de l'arc.
+
+D'un autre côté, nous savons que Neit passait pour avoir inventé le tissage, et qu'un des déterminatifs les plus ordinaires ajoutés à son nom semblait être une allusion permanente à cette légende ; sans parler des ateliers de tissage, qui faisaient partie de son temple.*
+
+*) Il y avait du reste de semblables ateliers attachés à an grand nombre, si non à la plupart des temples égyptiens.
+
+Or, Minerve était aussi une guerrière. Elle avait tué Encelade et les Gorgones ; dans l'Iliade, elle combat de sa personne. En Libye, les jeunes filles du pays se livraient chaque année en son honneur une bataille réelle ou simulée (Hérod. 4, 180). Dans la Grèce propre, elle portait le surnom d'[GREC]. On lui attribuait les victoires sur les Mèdes, et elle les avait combattus, disait-on, armée de la lance et du bouclier (de là l'épithète de [GREC]). Elle était aussi [GREC], veillant sur l'existence et la fortune des cités, et [GREC[. La grande statue, que l'on voit sur certaines monnaies, dominant les murs de l'Acropole, la montrait dans ses fonctions de combattante et de protectrice.
+
+Mais elle était en même temps [GREC] inspirant l'éloquence aux orateurs et la sagesse aux hommes politiques ; [GREC], déesse de la santé ; surtout [GREC], ouvrière, et comme telle, dirigeant, surveillant tous les travaux des femmes. Elle présidait aussi aux travaux des hommes, à certaines parties de l'agriculture, en Béotie par exemple sous le nom de [GREC] ; _etc._
+
+Ainsi, dit M. P. Decharme, (Mythol. de la Gr. ant. p. 85), elle personnifiait « le travail inventif de l'esprit dans ses applications les plus diverses, les mille ressources de l'intelligence hellénique, son activité curieuse, ses recherches infatigables. Elle était la déesse [GREC], dont Ulysse, le héros intelligent et [GREC], est le favori, parcequ'il en est la plus parfaite image. »
+
+Les fonctions de Neit sont moins nombreuses sans doute et moins variées. Mais les principales concordent d'une manière assez frappante avec celles de la Minerve athénienne, pour que les Grecs, faciles aux rapprochements, en vinssent bientôt à ne faire de ces deux déesses qu'une seule personne, connue sous des noms différents. Si l'ancienneté, en matière de religion, est un titre de plus, leurs jeunes dieux ne pouvaient que gagner à se confondre avec les vieilles divinités de l'Egypte, dont les temples comptaient déjà par milliers les années de leur existence.
+
+En ce qui concerne Neit et Athênê, on a relevé d'ailleurs des ressemblances de détail vraiment singulières. Charax (ap. scol. Aristid, p. 95) rapporte par exemple qu'à Athènes dans l'Acropole Minerve était représentée assise sur un crocodile, pour marquer qu'elle était venue d'Egypte. De ce groupe extraordinaire on pourrait rapprocher les statuettes, que nous avons signalées plus haut où Neit est figurée allaitant deux crocodiles. Assurément, les deux symboles différaient essentiellement et pour la forme et pour le sens. Il s'agit probablement pour Neit d'exprimer son rôle de mère et sans doute de mère d'un dieu solaire. Pour Athênê, rien de pareil. Mais des ressemblances de cet ordre devaient frapper les voyageurs qui visitaient les deux pays et qui voyaient les choses surtout par l'extérieur, sans se préoccuper de la signification des symboles.
+
+On pouvait apercevoir un rapprochement de plus dans les courses aux flambeaux célébrées à Marathon et à Corinthe eu l'honneur de la déesse [GREC] (Cf. la fête des lampes, à Saïs et dans toute l'Egypte).*
+
+*) A Ilium novum, on voyait, sur certains monuments, l'[GREC] ou Ilieia tenant un flambeau à la main.
+
+L'énumération de ces diverses analogies suffit à montrer comment les Grecs d'abord furent amenés à identifier Neit et Athênê. Quant aux Egyptiens, ils prirent aisément leur parti de ces assimilations plus ou moins justifiées, assurés qu'ils étaient que la priorité ne saurait être disputée à leurs dieux. Il ne leur déplaisait point de voir ce peuple jeune mêler son propre Panthéon au leur : car si l'on avait voulu disputer des origines, forts de leurs annales écrites et gravées dans les temples, et qui remontaient, d'après Platon, à dix mille ans au moins arrière, ils auraient confondu sans peine les naïves prétentions de leurs adversaires. C'est ce que les prêtres de Thèbes avaient fait pour Hécatée de Milet, au rapport d'Hérodote, et, si l'on en croit le poétique récit du Timée, Solon n'aurait pas même tenté de contester les assertions des prophètes de Saïs.
+
+## E. Neit et Anait.
+
+Hyde, le célèbre orientaliste du 17e siècle, est le premier, croyons-nous, qui voulant voir dans Neit une Vénus plutôt qu'une Minerve, ait prétendu la comparer avec l'Anait des Perses (Histor. religionis veter. Persar. 3, p. 92.) Jablonski (Panthéon, 55-56) proteste avec raison contre cette assimilation invraisemblable, adoptée aussi par Reland.
+
+Bunsen a repris cette comparaison erronée, et il pense que l'Anait adorée dans toute l'Asie* (Tanait, avec la préfixion de l'article féminin), est la même que Neit ; que les Grecs, en faisant précéder le nom d'un a prothétique, sont arrivés ainsi à ATENAID, ([GREC], génit. de [GREC]), puis qu'ils ont abrégé en ATHENA, avec [GREC] sur la dernière syllabe à cause de l'abréviation (Bunsen, 5, a, 22). Il appuie ces données sur la vieille tradition, citée par Philon, d'après laquelle la déesse [GREC] venait de Phénicie. « Le déterminatif hiéroglyphique de Neit est, dit-il, la navette, ou simplement la bobine du tisserand, parceque celle-ci s'appelle aussi NT. Mais il n'est pas prouvé que Neit soit quelque part mise en rapport avec le tissage. Il faut donc chercher si le symbole vient réellement de cette occupation domestique, ou de l'idée cosmogonique,* qui est toujours prédominante dans la mythologie Phénicio-Kadméenne.
+
+*) Cette déesse était véritablement représentée en Egypte par Anta, (la même que la déesse syrienne Qadeš, et que l'on voit représentée sur un certain nombre de stèles, par ex. Louvre, C, 86. (V. ci-dessons, p. 248).)
+
+*) Nous croyons avoir élucidé ce point dans nos recherches précédentes (V. le chap 3, 2e partie).
+
+« Tout ce que nous savons de l'Asiatique Anaitis-Teneth porte un caractère hautement cosmogonique. En outre, dans les mythes de Kadmos, la figure de la trame cosmique, du tissu de la création, est primitive et essentielle. Mais les mythes Kadmiques et tous les mythes Helléniques qui s'y rattachent, sont complètement phéniciens. »
+
+Pour admettre que Neit puisse être la même déesse que l'Anaïtis asiatique, il faudrait découvrir entre l'une et l'autre des rapports essentiels, et ce que nous savons de chacune d'elles les oppose, au lieu de les rapprocher.
+
+L'Anaïtis d'Arménie (= Anahid de la Perse) est, dit _Creuzer_ (Relig. de l'antiq. 2, 76) une grande déesse de la nature, régnant aux cieux, et représentant l'étoile du matin. Elle se distingue entre toutes par la richesse et l'éclat éblouissant de son culte ; elle préside à la volupté. Les principaux du pays prostituent leurs filles dans son temple. C'est donc une Vénus, et elle rappelle la Milytta de Babylone. Son culte était répandu en Asie-Mineure, dans les deux Comana (de la Cappadoce et du Pont), et il avait un caractère très marqué de fanatisme orgiastique.
+
+Guigniaut, (Notes du même ouvrage, 2, 3e part. p. 952) la compare avec Alilat d'Arabie, avec l'Astarté syro-phénicienne, Athara, Atergatis, Derceto, Artimpasa de Scythie, Démêter-Maia, la Grande Mère de Phrygie, avec l'Artémis Taurique, _etc._
+
+Nous ne voyons rien dans tout cela qui ait véritablement le moindre rapport avec la déesse de Saïs, sauf peut-être une certaine ressemblance de nom. Mais, lorsque les attributs, les fonctions divines, les détails du culte différent entièrement, il est difficile de fonder une identification sur des bases aussi peu solides.
+
+Movers (_Phœniz._, 1, 606, sqq., 616, sqq.) croit qu'Anaïtis = l'Astarté phénicienne, la grande déesse de Sidon et de Carthage, et qu'elle est, comme celle-ci, originaire de la haute Asie, soit de nom, soit d'idée. Elle est l'Artemis persane, et avant tout, elle est assyrrienne. Son nom, Tanaïs, Tanaïtis, sous la forme Tanit, se retrouve à chaque instant dans les inscriptions puniques, associé à celui de Baal-Chamon, par suite de l'influence religieuse que les peuples de la haute Asie exercèrent sur les peuples sémitiques dès les temps les plus reculés.
+
+Admettant cette identité, Movers rejette d'abord l'origine égyptienne dérivant le nom de celui de Neit, et nous pensons qu'il a absolument raison. Il cite les passages anciens qui rapportent unanimement cette divinité à la Perse, et même celle de Lydie et d'Arménie.
+
+Il estime que le rang de grande déesse assimilée à Artemis ou à Athênê, qu'elle occupa chez les Perses, elle l'avait déjà chez les Assyriens et qu'elle y était associée à leur Hercule-Sandan ou Sandaka, comme chez les Phéniciens elle était associée, en qualité de Melechet, ou reine, à Moloch, le roi (= Melkarth et Baal-Chamon).
+
+Elle se répandit en occident par les conquêtes des Assyriens, et régna des frontières de l'Inde jusqu'à l'Asie-Mineure, à la Palestine et à l'Afrique. Movers incline même à la retrouver dans la Thana d'Etrurie, comme dans l'Athana ou Athêna grecque.
+
+Quant à la Neit égyptienne, il finit (nous citons le résumé de Guiguiaut) par l'envelopper dans la même dérivation générale, au moyen de Nit-ocris, reine égyptienne, mais aussi reine de Babylone. Il y soupçonne un type mythologique, une Sémiramis, une déesse guerrière, androgyne même, comme le fut certainement la Neit d'Egypte, comme pouvaient bien l'avoir été Tanaïtis et Astarté, aussi bien que Cybèle et la Diane d'Ephèse.
+
+Movers reconnait du reste que l'Anaïtis de Perse et d'Arménie, et aussi bien l'Astarté phénicienne, offrent des contrastes frappants de pureté et d'impureté, d'énergie belliqueuse et de volupté sans frein. Il a recours, pour s'en rendre compte, à la fusion de deux déesses en une seule, d'une déesse lunaire, qui est proprement Astarté ou Anaïtis, l'Artemis ou la Minerve assyro-perse, avec la déesse de la planète Vénus, avec la Milytta de Babylone et la Baaltis de Syrie, assimilée à Aphrodite ou à Dioné.
+
+Et cette fusion, il l'explique par le mélange des religions sémitiques et des religions de la haute Asie, par suite des conquêtes successives des Assyriens, des Mèdes, des Chaldéens et des Perses... De là Tanaït à Babylone, en Arménie, en Lydie, devenue une véritable Milytta, une reine de volupté, exigeant de ses hiérodules le sacrifice de leur vertu et s'appropriant la fête licencieuse des Sacées, dans son alliance avec le dieu Sandan, qui est celle d'Omphale et d'Hercule. Même sur la Tanaït de Sidon et de Carthage, dit Movers, même sur celle de la Perse, le culte dissolu de Milytta étendit accidentellement son influence : car, durant la fête des Sacées au moins, Tanaït était adorée en qualité de Milytta, la déesse carthaginoise, la même que Didon en qualité d'Anna.*
+
+*) Voir tout le détail de cette discussion, dont nous avons reproduit textuellement les passages essentiels, dans _Creuzer-Guigniaut_, loc. cit.
+
+M. de Vogué a publié, dans ses Mélanges d'archéologie sémitique (p. 41 et suiv.) une étude intéressante et approfondie sur la déesse Anat, qu'il considère comme [HIERO] égyptienne, appelée aussi _Qadeš_ et _Ken_, mais qu'il ne rapproche point de Neit. Cette Anta ou Anata prend des aspects très divers, suivant les pays où elle est adorée. Ici elle est belliqueuse, farouche et chaste, comme la Diane persique et l'Artemis taurique. Ailleurs, en Cappadoce et en Syrie par exemple, elle est voluptueuse, lascive et on se livre dans ses temples à toutes sortes de pratiques obscènes.
+
+Neit, on l'avouera, n'a décidément rien de commun avec cette divinité d'origine tout asiatique, aux mille formes et aux noms si variés, dont le culte en somme a pour trait le plus ordinaire un déchaînement effréné des voluptés les plus licencieuses. Rien de pareil n'apparaît, à aucune époque, dans ses temples, et les mystères nocturnes célébrés sur le lac de Saïs ne semblent point avoir donné lieu à des cérémonies orgiastiques. Il faut donc abandonner définitivement une assimilation qui ne repose, en somme, que sur une certaine consonnance dans les noms propres, et renoncer à mettre en parallèle deux personnifications, dont les origines sont entièrement différentes, dont les rôles n'offrent que des analogies lointaines. Peut-être, après les invasions répétées et les nombreuses conquêtes auxquelles l'Egypte avait été en proie, lorsque les religions se furent jusqu'à un certain point pénétrées et que le fusionisme eut commencé à fleurir, peut-être alors, mais alors seulement arriva-t-on à rapprocher des types si dissemblables et à faire entrer même dans le culte de Neit quelques pratiques, qui en modifièrent la physionomie.
+
+Mais cette corruption de l'idée primitive ne dut se produire que fort tard, si on considère l'ensemble historique de la religion égyptienne ; et il serait souverainement injuste, en tout cas, d'en vouloir faire remonter la responsabilité jusqu'à un passé, qui n'a réellement rien à y voir.
+
+## F. Les Étymologies du Nom de Neit.
+
+Voici les différentes conjectures émises pour expliquer l'étymologie du nom de Neit, avant la découverte de Champollion. Nous les donnons telles qu'elles ont été résumées par Jablonski, dans son _Panthéon Ægyptiorum_, publié en 1750.
+
+L'illustre orientaliste Eusèbe Renaudot pensait, (Mém. de l'Acad. des Inscr. 2, 273) que pour les Egyptiens le mot [GREC] signifiait Déesse, et qu'ils lui avaient donné ce nom, de même que les Grecs ont appelé Minerve la déesse par excellence. Et il est vrai que [COPTE] veut dire Dieu en langue égyptienne.* Mais il faut avouer que ce nom, en tant qu'appellatif, est commun à toutes les divinités de l'Egypte, tandisque celui de [GREC] est un nom propre, par lequel les Egyptiens ont entendu la distinguer de toutes les autres. Aussi nous faudra-t-il songer à chercher une autre origine.
+
+*) Nous avons nous-même rapproché plus haut le mot [HIERO] du mot [HIERO], en exprimant la pensée qu'ils pouvaient être deux formes de la même racine.
+
+Un homme très versé dans la langue et les antiquités égyptiennes, Lacroze, va nous la fournir. Dans son _Thesaurus epistol._ T. 3, p. 155, il dit : [GREC] est un nom féminin, qui fait au masculin [COPTE], misericors.
+
+Jablonski ajoute qu'il avait eu d'abord la même idée, mais qu'en y réfléchissant davantage, en se reportant à la transcription grecque et en consultant les auteurs anciens, il a trouvé des hypothèses plus satisfaisantes.
+
+Il reproduit l'opinion de Plutarque, qui dit que le nom d'[GREC] (Neit) signifie : [GREC], c'est-à-dire qu'elle se meut par elle-même, [GREC]. Il ajoute qu'en égyptien venir se disait : [COPTE] ; or, il est difficile, remarque-t-il, vu le peu de documents qui restent en cette langue, de décider si [COPTE] peut signifier : celle qui vient d'elle-même.* Cependant il est évident que des prêtres du pays ont interprété ce nom ainsi, et cela d'après la théologie antique.
+
+*) Si on admettait la racine NHI, qui est en effet égyptienne, le _t_ pourrait être le suffixe Fém. de la 2e personne, et l'ensemble devrait signifier : tu viens ; ou bien le _t_ étant simplement la marqué du féminin, le mot signifierait : celle qui vient. --- M. _Wiedemann_ (Sammlung altæg. Wörter, _etc._ p. 9) rapporte l'étymologie de Plutarque au groupe égyptien [HIERO] _at-n-a_, je suis venu.
+
+Il suggère ensuite une autre explication qui l'a fort séduit, mais qu'il se contente de soumettre à l'examen des savants. Les traducteurs coptes du Nouveau Testament rendent quelquefois l'expression [GREC], olim, par [COPTE], ab antiquo. Ils rendent parfois même cette particule par [COPTE] a principio (Hebr. 1, 1). D'où il paraît qu'eu égyptien [COPTE] veut dire : ce qui est ab antiquo ou a principio. Il suit de là que [COPTE], qui est le primitif ou la racine de ce mot, désigne une chose ancienne, ou ce qui est avant les autres choses et plus ancien qu'elles.
+
+Avec l'addition d'une lettre servile, on a [COPTE] ou [COPTE], antiquus et antiqua. Dieu lui-même (_Daniel_, 7, 9, 13, 22) s'appelle [HEBREU], l'ancien des jours, et les sages païens ont souvent attribué à leurs dieux une dénomination semblable. (V. Æschyl. Supplie. v. 52). Ainsi Io, qui n'est autre qu'Isis, laquelle est assimilée à Neith, est décorée du nom de [GREC], matris antiquæ. Ce serait [COPTE]. Cette étymologie est confirmée par Diod. 1, 11, lorsqu'il écrit [GREC], que le nom d'Isis veut dire : l'ancienne. Les coptologues reconnaîtront que ce n'est point là la signification du nom d'Isis ; mais cela peut être vrai de Neit qui, selon la doctrine des Egyptiens, s'identifie avec Isis.
+
+Jablonski adopterait cette interprétation, dit-il, s'il était absolument sûr que [COPTE] puisse signifier : antiquus. Mais il conserve des doutes sur ce point, parce que, selon lui, [COPTE] avait en égyptien la même valeur que [COPTE], decernere, definire, ordinare. (Exod. 8, 12. Matth. 28, 16).
+
+Ainsi, [GREC], tempus certum et definitum (Gal. 4, 2) est traduit [COPTE]. Neit signifiera donc : decernens, constituens, ordinans ; il compare le sens de ce nom avec celui du Vulcain égyptien, qu'il transcrit [COPTE] ; et il rapproche aussi les rôles des deux divinités, qui n'étaient point soumises à un destin aveugle, mais avaient au contraire réglé elles-mêmes l'ordre immuable des choses, d'après leur propre plan et leur propre volonté. Il finit en citant un passage d'Apulée, (Métam. 11, 260) et un autre de Jamblique, (de Myster. Ægypt. 8, 4), confirmant l'hypothèse qu'il a proposée.
+
+Nous ne discuterons point ces diverses conjectures, en ayant produit nous-même deux autres, que nous estimons plus conformes d'une part à la doctrine et de l'autre au génie de la langue antique. Mais nous avons cru intéressant de les reproduire ici comme un exemple des efforts tentés précédemment dans la voie, dangereuse peut-être, où nous n'avons pas craint de nous engager.
+
+Fin.
