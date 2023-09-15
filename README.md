@@ -1,6 +1,6 @@
 # Dominique Mallet
 
-Public Domain Works of Dominique Mallet
+Public Domain Works of Dominique Mallet (1839 - 1926).
 
 ## Le Culte de Neit à Saïs
 
