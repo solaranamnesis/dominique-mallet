@@ -28,7 +28,7 @@ D. M.
 
 # [Deuxième Partie. --- Neit.](#deuxième-partie-----neit-1)
 
-## [1. Origines et Caractères Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caracteres-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
+## [1. Origines et Caractères Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caractères-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
 
 ## [2. Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.](#2-du-rôle-des-déesses-en-général-et-en-particulier-de-neit-----les-inscriptions-----la-statuette-naophore-1)
 
