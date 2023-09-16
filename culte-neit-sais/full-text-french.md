@@ -44,7 +44,7 @@ D. M.
 
 ## [5. La Doctrine de l'Emanation.](#5-la-doctrine-de-lemanation-1)
 
-## [6. Résumé. --- Conclusion.](#6-resumé-----conclusion-1)
+## [6. Résumé. --- Conclusion.](#6-résumé-----conclusion-1)
 
 # [Appendice.](#appendice-1)
 
