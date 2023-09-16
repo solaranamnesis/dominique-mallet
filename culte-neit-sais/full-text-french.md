@@ -30,35 +30,35 @@ D. M.
 
 ## [1. Origines et Caracteres Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caracteres-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
 
-## [2. Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.]()
+## [2. Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.](#2-du-rôle-des-déesses-en-général-et-en-particulier-de-neit-----les-inscriptions-----la-statuette-naophore-1)
 
-## [3. L'Étymologie du Nom et ses Conséquences.]()
+## [3. L'Étymologie du Nom et ses Conséquences.](#3-létymologie-du-nom-et-ses-conséquences-1)
 
-### [1. Démonstration et Preuves. Identité du Sens avec les Différentes Orthographes du Nom.]()
+### [1. Démonstration et Preuves. Identité du Sens avec les Différentes Orthographes du Nom.](#1-démonstration-et-preuves-identité-du-sens-avec-les-différentes-orthographes-du-nom-1)
 
-### [2. Explication Primitive du Nom de Neit. --- Signification du Signe 𓋋.]()
+### [2. Explication Primitive du Nom de Neit. --- Signification du Signe 𓋋.](#2-explication-primitive-du-nom-de-neit-----signification-du-signe-𓋋-1)
 
-### [3. Témoignages des Grecs.
+### [3. Témoignages des Grecs.](#3-témoignages-des-grecs-1)
 
-## [4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.]()
+## [4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.](#4-de-quelques-conceptions-religieuses-analogues-à-celle-de-neit-dans-lancienne-religion-égyptienne-1)
 
-## [5. La Doctrine de l'Emanation.]()
+## [5. La Doctrine de l'Emanation.](#5-la-doctrine-de-lemanation-1)
 
-## [6. Resumé. --- Conclusion.]()
+## [6. Resumé. --- Conclusion.](#6-resumé-----conclusion-1)
 
-# [Appendice.]()
+# [Appendice.](#appendice-1)
 
-## [A. Note Rectificative sur la Position de Naucratis.]()
+## [A. Note Rectificative sur la Position de Naucratis.](#a-note-rectificative-sur-la-position-de-naucratis-1)
 
-## [B. Les Fêtes d'Osiris à Saïs.]()
+## [B. Les Fêtes d'Osiris à Saïs.](#b-les-fêtes-dosiris-à-saïs-1)
 
-## [C. Représentations Figurées.]()
+## [C. Représentations Figurées.](#c-représentations-figurées-1)
 
-## [D. Neit et GREC.]()
+## [D. Neit et GREC.](#d-neit-et-grec-1)
 
-## [E. Neit et Anait.]()
+## [E. Neit et Anait.](#e-neit-et-anait-1)
 
-## [F. Les Étymologies du Nom de Neit.]()
+## [F. Les Étymologies du Nom de Neit.](#f-les-étymologies-du-nom-de-neit-1)
 
 ---
 
@@ -1504,7 +1504,7 @@ Il convient d'observer de plus que c'est dans le _Timée_, où il développe ave
 
 *) _Stromates_, 1, 15.
 
-### 4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.
+## 4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.
 
 Aux conclusions que nous avons précédemment déduites, on objectera que la doctrine métaphysique, qui fait le fond des croyances Saïtes, si elle est vraie à la fin de l'Egypte, ne saurait l'être au commencement, qu'elle paraît d'une philosophie bien abstraite et bien savante, pour s'être fait jour aux premiers siècles, à l'aurore d'une civilisation si antique.
 
