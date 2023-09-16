@@ -26,7 +26,7 @@ D. M.
 
 ## [3. Fin de l'Histoire : Époque Grecque et Romaine. --- Moyen-Age. --- Temps Modernes. --- État des Ruines.](#3-fin-de-lhistoire--époque-grecque-et-romaine-----moyen-age-----temps-modernes-----état-des-ruines-1)
 
-# [Deuxième Partie. --- Neit.](#deuxième-partie-neit-1)
+# [Deuxième Partie. --- Neit.](#deuxième-partie-----neit-1)
 
 ## [1. Origines et Caracteres Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caracteres-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
 
