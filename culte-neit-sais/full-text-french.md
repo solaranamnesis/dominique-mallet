@@ -1,4 +1,4 @@
- # Le Culte de Neit à Saïs.
+# Le Culte de Neit à Saïs.
 
 ## Par Dominique Mallet.
 
