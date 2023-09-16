@@ -24,7 +24,7 @@ D. M.
 
 ## [2. L'Art Saïte. --- Monuments. --- Fêtes. Ecoles Sacerdotales.](#2-lart-saïte-----monuments-----fêtes-ecoles-sacerdotales-1)
 
-## [3. Fin de l'Histoire : Époque Grecque et Romaine. --- Moyen-Age. --- Temps Modernes. --- État des Ruines.](#3-fin-de-lhistoire--époque-grecque-et-romaine-----moyen-âge-----temps-modernes-----état-des-ruines-1)
+## [3. Fin de l'Histoire : Époque Grecque et Romaine. --- Moyen-Âge. --- Temps Modernes. --- État des Ruines.](#3-fin-de-lhistoire--époque-grecque-et-romaine-----moyen-âge-----temps-modernes-----état-des-ruines-1)
 
 # [Deuxième Partie. --- Neit.](#deuxième-partie-----neit-1)
 
