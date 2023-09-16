@@ -18,7 +18,7 @@ D. M.
 
 # [Préface](#préface-1)
 
-# [Première Partie --- Saïs.](#première-partie-----saïs-1)
+# [Première Partie. --- Saïs.](#première-partie-----saïs-1)
 
 ## [1. Origines. --- Histoire.](#1-origines-----histoire-1)
 
@@ -26,7 +26,7 @@ D. M.
 
 ## [3. Fin de l'Histoire : Époque Grecque et Romaine. --- Moyen-Age. --- Temps Modernes. --- État des Ruines.](#3-fin-de-lhistoire--époque-grecque-et-romaine-----moyen-age-----temps-modernes-----état-des-ruines-1)
 
-# [Deuxième Partie. Neit.](#deuxième-partie-neit-1)
+# [Deuxième Partie. --- Neit.](#deuxième-partie-neit-1)
 
 ## [1. Origines et Caracteres Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caracteres-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
 
@@ -95,7 +95,7 @@ _Le nom de notre déesse était_ Nit, _comme les transcriptions grecques le prou
 
 D. M.
 
-# Première Partie --- Saïs.
+# Première Partie. --- Saïs.
 
 ## 1. Origines. --- Histoire.
 
@@ -692,7 +692,7 @@ Au commencement de la lettre adressée du Caire le 20 décembre 1860 à M. E. de
 
 L'enceinte existe et on en peut suivre encore tout le développement ; la position du lac se détermine d'elle-même et sans discussion. Avec les indications d'Hérodote et celles des documents égyptiens, il semble que des fouilles persévérantes devraient faire retrouver tout le reste.
 
-# Deuxième Partie. Neit.
+# Deuxième Partie. --- Neit.
 
 ## 1. Origines et Caracteres Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.
 
