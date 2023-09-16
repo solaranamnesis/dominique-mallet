@@ -14,6 +14,54 @@ Professeur a l'École du Louvre.
 Hommage Respectueux  
 D. M.
 
+---
+
+# [Préface](#préface-1)
+
+# [Première Partie --- Saïs.](#première-partie-----saïs-1)
+
+## [1. Origines. --- Histoire.](#1-origines-----histoire-1)
+
+## [2. L'Art Saïte. --- Monuments. --- Fêtes. Ecoles Sacerdotales.](#2-lart-saïte-----monuments-----fêtes-ecoles-sacerdotales-1)
+
+## [3. Fin de l'Histoire : Époque Grecque et Romaine. --- Moyen-Age. --- Temps Modernes. --- État des Ruines.](#3-fin-de-lhistoire--époque-grecque-et-romaine-----moyen-age-----temps-modernes-----état-des-ruines-1)
+
+# [Deuxième Partie. Neit.](#deuxième-partie-neit-1)
+
+## [1. Origines et Caracteres Généraux du Culte de Neit. --- Son Ancienneté prouvée par les Monuments.](#1-origines-et-caracteres-généraux-du-culte-de-neit-----son-ancienneté-prouvée-par-les-monuments-1)
+
+## [2. Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.]()
+
+## [3. L'Étymologie du Nom et ses Conséquences.]()
+
+### [1. Démonstration et Preuves. Identité du Sens avec les Différentes Orthographes du Nom.]()
+
+### [2. Explication Primitive du Nom de Neit. --- Signification du Signe 𓋋.]()
+
+### [3. Témoignages des Grecs.
+
+## [4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.]()
+
+## [5. La Doctrine de l'Emanation.]()
+
+## [6. Resumé. --- Conclusion.]()
+
+# [Appendice.]()
+
+## [A. Note Rectificative sur la Position de Naucratis.]()
+
+## [B. Les Fêtes d'Osiris à Saïs.]()
+
+## [C. Représentations Figurées.]()
+
+## [D. Neit et GREC.]()
+
+## [E. Neit et Anait.]()
+
+## [F. Les Étymologies du Nom de Neit.]()
+
+---
+
 # Préface
 
 _Cet ouvrage est terminé depuis deux ans. Diverses circonstances en ont retardé la publication, et nous le regrettons vivement : car, en Egyptologie comme dans toute science encore jeune, les livres vieillissent très vite._
@@ -935,7 +983,7 @@ Parmi les sculptures peintes copiées par Champollion dans le tombeau de Menepta
 
 C'est surtout depuis l'avènement de la dynastie Saïte et dans les siècles qui suivent que Neit prend décidément, dans l'ensemble du Panthéon égyptien, une place exceptionnelle. Elle devient alors non plus seulement la patronne de Saïs, mais celle de toute l'Egypte, et le titre de fils de Neit, pour les rois de cette époque, paraît avoir une importance à peu près égale à celle du titre de : fils de Ra. Mais nous reviendrons plus loin sur ces questions. Il nous a suffi dans ce chapitre, de démontrer, par les faits et par les textes, la perpétuité du culte de Neit en Egypte depuis les origines historiques jusqu'à cette époque de la 26e dynastie, où il devient plus florissant que jamais. Ce point définitivement acquis, il nous reste à en caractériser la signification et la portée.
 
-## Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.
+## 2. Du Rôle des Déesses en Général et en Particulier de Neit. --- Les Inscriptions. --- La Statuette Naophore.
 
 Champollion, dans son _Panthéon égyptien_, comprenait, sous le nom de Neit toutes les déesses. De même qu'Amon-Ra ou Cneph est le principe mâle de l'univers, ainsi, disait-il, Neit est le principe générateur femelle de la nature entière.
 
@@ -1161,9 +1209,9 @@ Il faudrait reconnaître alors l'existence de deux principes, l'un qui serait la
 
 *) Cette forme du panthéisme a existé, a été en faveur en Egypte, M. Brugsch le montre par une multitude de citations dans son ouvrage récent : _Religion und Mythologie der alten Ægypter_. Mais ce n'est pas celle-là que nous voyons à Saïs.
 
-# 3. L'Étymologie du Nom et ses Conséquences.
+## 3. L'Étymologie du Nom et ses Conséquences.
 
-## Démonstration et Preuves. Identité du Sens avec les Différentes Orthographes du Nom.
+### 1. Démonstration et Preuves. Identité du Sens avec les Différentes Orthographes du Nom.
 
 La théorie, nous venons de l'exposer, dans toute sa hardiesse et toute sa netteté, telle que les textes nous l'ont fournie. Nous allons la soumettre maintenant à une contreépreuve décisive, qui nous amènera nécessairement à d'intéressants résultats. Si, en examinant l'étymologie du nom de la déesse, nous y trouvons une confirmation éclatante de la doctrine dont elle est l'âme, nous serons en droit d'affirmer que nous en avons exactement compris la pensée.
 
@@ -1399,7 +1447,7 @@ Ne serait-ce pas lâ justement le mot de cette grande énigme, si souvent désig
 
 Trompé sur la traduction du [HIERO], M. de Rougé nous paraît avoir interverti les rôles, lors-qu'il parle du dieu engendrant à lui seul, sans le secours d'une femelle. C'est au contraire ici et comme il l'a reconnu lui-même ailleurs le principe féminin qui produit à lui seul et sans le secours d'un mâle, et le mystère n'a plus rien d'inaccessible, ce nous semble, si l'on admet que ce principe féminin est l'être au sens le plus général, [HIERO], [GREC], si l'on y reconnaît la substance primordiale, d'où sortent tous les autres êtres.
 
-## 3. Témoignages des Grecs.
+### 3. Témoignages des Grecs.
 
 Jusqu'ici nous n'avons guère interrogé que les documents ou les monuments de source égyptienne. Mais de leur côté, les écrivains grecs ou alexandrins nous ont transmis des renseignements pleins d'intérêt sur Neit et son culte. Or, on est obligé de reconnaître que les témoignages des Grecs, d'abord rejetés par les égyptologues avec une sorte de dédain, se trouvent très-souvent appuyés par les découvertes nouvelles. Sur le point particulier qui nous occupe, les traditions recueillies par les philosophes et les mythographes concordent pleinement avec ce que nous savons de Neit, et par l'étymologie de son nom, et par les documents égyptiens.
 
@@ -1456,7 +1504,7 @@ Il convient d'observer de plus que c'est dans le _Timée_, où il développe ave
 
 *) _Stromates_, 1, 15.
 
-# De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.
+### 4. De quelques Conceptions religieuses analogues à celle de Neit dans l'ancienne Religion Égyptienne.
 
 Aux conclusions que nous avons précédemment déduites, on objectera que la doctrine métaphysique, qui fait le fond des croyances Saïtes, si elle est vraie à la fin de l'Egypte, ne saurait l'être au commencement, qu'elle paraît d'une philosophie bien abstraite et bien savante, pour s'être fait jour aux premiers siècles, à l'aurore d'une civilisation si antique.
 
