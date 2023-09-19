@@ -1595,7 +1595,7 @@ Ceux que nous avons reproduits plus haut prouvent que Neit avait son nom et sa p
 
 De plus, comme nous l'avons fait remarquer, ils sont généralement d'origine Memphite, et, par suite, ne sauraient reconnaître à la déesse de Saïs une prééminence que les prêtres Saïtes furent peut-être seuls à lui accorder, au moins jusqu'à l'épanouissement de son culte, qui coïncide avec l'avènement des rois leurs compatriotes.
 
-# 5. La Doctrine de l'Emanation.
+## 5. La Doctrine de l'Emanation.
 
 Ayant étudié une assez longue série de textes, d'époques et de provenances diverses, qui convergent, avec un remarquable ensemble, vers des conclusions à peu près identiques, nous sommes en mesure de dégager maintenant et de faire ressortir le caractère général du dogme Saïte.
 
@@ -1655,7 +1655,7 @@ Cependant il ne faut pas trop presser ces déductions, qui ne reposent pas sur d
 
 Du reste, c'est là un caractère commun aux hymnes religieux chez tous les peuples, et nous ne pouvons connaître la métaphysique et la cosmogonie égyptiennes que par des textes de ce genre, la philosophie en Égypte n'étant point séparée de la religion. Il est donc fort possible que des textes Saïtes, même développés et complets, ne nous renseigneraient pas absolument sur les questions que nous avons posées et essayé de résoudre d'après de simple probabilité.
 
-# 6. Résumé. --- Conclusion.
+## 6. Résumé. --- Conclusion.
 
 Avant de terminer ce travail, nous croyons utile d'en résumer brièvement l'ensemble et d'en indiquer les résultats.
 
