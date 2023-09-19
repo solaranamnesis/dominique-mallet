@@ -143,7 +143,7 @@ Au milieu, dans les lignes horizontales, à la fin de la série des titres, nous
 
 M. Pierret, qui a traduit complètement les inscriptions de cette dernière planche, interprète ainsi : « Son père l'a fait inscrire comme gouverneur des gens de Tep, chef du palais du domaine [HIERO], du domaine Sepa, gouverneur du nome de Neit [HIERO]. » Ce nome de Neit (_Neit hesep_) est bien évidemment le nome Saïte. La ville elle-même n'est pas nommée, mais nous avons du moins la mention du district dont elle était le chef-lieu, et nous pouvons conclure de l'existence du nome à l'existence de la cité, qui renferma dès l'origine le temple où Neit était spécialement adorée.
 
-La pyramide d'Ounas (dernier roi de la 5e dynastie), dont les textes ont été publiés et traduits par M. Maspero, est plus explicite. Elle nous présente le nom de Saïs écrit phonétiquement, et de la manière la plus complète. On trouve en effet, à la ligne 556, une invocation ainsi conçue : [HIERO] ô siège dc Saïs, grâce à la traversée ... que fait _χnum_ apportant ces choses à _Unas_, c'est _Unas Sokari_ au _Rosta-u_, _etc._
+La pyramide d'Ounas (dernier roi de la 5e dynastie), dont les textes ont été publiés et traduits par M. Maspero, est plus explicite. Elle nous présente le nom de Saïs écrit phonétiquement, et de la manière la plus complète. On trouve en effet, à la ligne 556, une invocation ainsi conçue : [HIERO] ô siège de Saïs, grâce à la traversée ... que fait _χnum_ apportant ces choses à _Unas_, c'est _Unas Sokari_ au _Rosta-u_, _etc._
 
 Dans le _Todtenbuch_, qui est composé de plusieurs parties d'époques différentes, mais dont le fond remonte à une très haute antiquité, puisqu'on en retrouve la plupart des chapitres dans les plus anciens tombeaux, Saïs apparaît à plusieurs reprises.
 
