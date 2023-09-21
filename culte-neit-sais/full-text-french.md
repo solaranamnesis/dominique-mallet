@@ -1142,7 +1142,7 @@ Il était fils du grand-prêtre en fonctions sous Apriès. Amasis, peu soucieux 
 
 S'il faut en croire la légende racontée à Hérodote, Cambyse était fils d'une mère égyptienne ; comme tel, il se rattachait à la véritable lignée royale, et devenait un prince légitime, un véritable Pharaon. Au début de la conquête, lorsqu'il se montrait encore respectueux des traditions indigènes, il est parfaitement admissible qu'il ait recherché, accepté du moins une initiation, qui semblait établir et consacrer davantage encore la légitimité de ses droits. En effet, dans une des inscriptions de sa statue, notre Saïte se vante d'avoir « fait connaître au roi la grandeur de Saïs, qui est la résidence de tous les dieux, » et ailleurs, parlant de Neit, « la grandeur de Sa Majesté divine, qui est la mère du Soleil lui-même. »
 
-Il s'appelait _Ut'a hor_ ([HIERO]), et il se donne à lui-même le titre de [HIERO] ur sun,* qu'on trouve sur les plus anciens monuments, et qui reparaît souvent à l'époque Saïte, sur des statues ou des stèles provenant de Saïs, par exemple au Vatican, à Madrid, au Louvre.*
+Il s'appelait _Ut'a hor_ ([HIERO]),* et il se donne à lui-même le titre de [HIERO] ur sun,* qu'on trouve sur les plus anciens monuments, et qui reparaît souvent à l'époque Saïte, sur des statues ou des stèles provenant de Saïs, par exemple au Vatican, à Madrid, au Louvre.*
 
 *) Cette désignation, ajoutée partout à son nom, indique qu'il était plus spécialement attaché à la partie du temple de Neit, que nous avons vue ainsi qualifiée : (la demeure du Midi).
 
