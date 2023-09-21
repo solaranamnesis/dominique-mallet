@@ -879,7 +879,7 @@ Le nom de Neit est cite plusieurs fois dans les inscriptions des pyramides d'Una
 
 [HIERO] _etc._
 
-Dans la pyramide de Teti, à la ligne 209 commence l'invocation suivante : « Père de Teti, père de Teti, Tum dans les ténèbres, tu as amené Teti près de toi, parce qu’il t'a fait l'opération de lancer la flamme et celle du _Sa_, comme ont fait pour le père de Nou ces quatre déesses, le jour où elles ont fait le _Sa_ du trône, Isis, Nephthys, Nit, Selkit-hatou. » [HIERO].
+Dans la pyramide de Teti, à la ligne 209 commence l'invocation suivante : « Père de Teti, père de Teti, Tum dans les ténèbres, tu as amené Teti près de toi, parce qu’il t'a fait l'opération de lancer la flamme et celle du _Sa_, comme ont fait pour le père de Nou ces quatre déesses, le jour où elles ont fait le _Sa_ du trône, Isis, Nephthys, Nit, Selkit-hatou. » [HIERO].*
 
 *) Recueil de travaux, T. 5, p. 24.  Dans un passage de la pyramide de Pepi 1, où les membres du roi mort sont assimilés à des divinités, on lit (l. 571-572, Recueil, T. 8, p. 88) [HIERO] les deux cuisses de ce Miriri sont Nit et Selkit ; il sort donc, il s'élève au ciel.  Dans son texte magique de la 20e dynastie (Pap. de Turin 125) on lit à la ligne 9 : [HIERO]. Son ventre est Neit de Saïs.
 
