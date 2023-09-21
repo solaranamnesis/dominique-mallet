@@ -1100,6 +1100,8 @@ Les temples de basse époque expriment des idées analogues. Ainsi, à Edfou, el
 
 *) _Duemichen_, Insc. géogr. pl. 87.
 
+*) _Duemichen_, Insc. géogr. pl. 89.
+
 *) _Brugsch_, Dict. géogr. 1366.
 
 *) Un texte d'Edfou cité par Brugsch, Drei Fest-Kalender, pl. 10, col. 8, donne à notre déesse un titre que nous n'avons rencontré nulle part ailleurs : [HIERO] que Brugsch traduit par Œffnerin der Seen, celle qui ouvre les lacs, en ajoutant l'expression d'un doute ( ? ). Est-ce là une allusion au lac de Saïs, ou à l'inondation, ou faut-il comparer l'expression avec celle de [HIERO] que nous avons relevée sous l'Ancien Empire ? ?
