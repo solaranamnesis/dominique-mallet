@@ -923,7 +923,7 @@ Sur un monument de la 11e ou peut-être de la 13e dynastie, trouvé par Lepsius 
 
 *) Id., ibid. pl. 123.
 
-La stèle C, 15 du Louvre* contient l'éloge d'un certain _Mur-ka-u_, qui se vante d'avoir été un fidèle adorateur des dieux et observateur des cérémonies religieuses. Un des registres inférieurs de la stèle est occupé par une série de personnages mystiques, qui tiennent des insignes sacrés. Au-dessus se développe, en colonnes verticales très courtes, une énumération de noms divins, chaque colonne en renfermant un seul. On en compte ainsi vingt-quatre, depuis Ra [HIERO] jusqu'à Sebit [HIERO] au dix-neuvième rang, apparaît celui de Neit, sous* la forme que voici : [HIERO].
+La stèle C, 15 du Louvre* contient l'éloge d'un certain _Mur-ka-u_, qui se vante d'avoir été un fidèle adorateur des dieux et observateur des cérémonies religieuses. Un des registres inférieurs de la stèle est occupé par une série de personnages mystiques, qui tiennent des insignes sacrés. Au-dessus se développe, en colonnes verticales très courtes, une énumération de noms divins, chaque colonne en renfermant un seul. On en compte ainsi vingt-quatre, depuis Ra [HIERO] jusqu'à Sebit [HIERO] au dix-neuvième rang, apparaît celui de Neit, sous la forme que voici : [HIERO].
 
 *) M. de Rougé, Notice des monuments du Louvre, p. 81, pense qu'elle doit appartenir au commencement de la 12e dynastie.
 
