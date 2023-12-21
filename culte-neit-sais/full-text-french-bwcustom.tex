@@ -980,6 +980,29 @@
 \Fontlukas\bfseries
 \AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{blackandwhite-v5.png}}
 
+\renewcommand{\cftfigfont}{\Fontlukas\bfseries}
+\renewcommand{\cftfigpagefont}{\Fontlukas\bfseries}
+
+\renewcommand{\cftsecfont}{\Fontlukas\bfseries}
+\renewcommand{\cftsubsecfont}{\Fontlukas\bfseries}
+\renewcommand{\cftsubsubsecfont}{\Fontlukas\bfseries}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\Fontlukas\bfseries{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\Fontlukas\bfseries{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\Fontlukas\bfseries{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\Fontlukas\bfseries{\origcftsubsecafterpnum}}
+\let\origcftsubsubsecpagefont\cftsubsubsecpagefont
+\let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
+\renewcommand{\cftsubsubsecpagefont}{\Fontlukas\bfseries{\origcftsubsubsecpagefont}}
+\renewcommand{\cftsubsubsecafterpnum}{\Fontlukas\bfseries{\origcftsubsubsecafterpnum}}
+
+\renewcommand{\thefigure}{\Fontlukas\bfseries{\arabic{figure}}}
+
 \renewcommand\thefootnote{{\Fontlukas\bfseries\color{White}{\arabic{footnote}}}}
 \let\oldfootnote\footnote
     \renewcommand{\footnote}[1]{\oldfootnote{{\normalsize\Fontlukas\bfseries\color{White}#1}}}
