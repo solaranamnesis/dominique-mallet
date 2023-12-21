@@ -7,4 +7,6 @@ English - PDF
 
 background-*.jpeg --- CC BY-SA 3.0 Solar Anamnesis; modified attribution Aker.svg: Jeff Dahl Djed.svg: Jeff Dahl Kheper.svg: Jeff Dahl Ancient_Egypt_Wings.svg: Jeff Dahl derivative work: Kenrick95, CC BY-SA 3.0, via Wikimedia Commons; Metropolitan Museum of Art CC0 1.0 Universal Public Domain Dedication; -Strogoff-, CC BY-SA 3.0.
 
+blackandwhite-v5.png --- CC BY-SA 4.0 Solar Anamnesis; modified attribution Winged Nut, Metropolitan Museum of Art, CC0, via Wikimedia Commons; Neith mirror, FDRMRZUSA, CC BY-SA 4.0, via Wikimedia Commons; Red Crown Neith, Jeff Dahl, CC BY-SA 4.0, via Wikimedia Commons; Hiéroglyphe égyptien L2, Wionvard, CC BY-SA 4.0, via Wikimedia Commons.
+
 NOTE: svg colors can be changed with `sed -i 's/#000000/#ffd700/' $(find | grep \.svg)`
