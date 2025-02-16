@@ -597,7 +597,7 @@ C'est d'abord le géographe commerçant Ibn-Haukal, qui parcourut pendant 28 ans
 
 *) _Quatremère_, Mém. géogr. et histor. sur l'Égypte, 1, 291.
 
-*) Edrisy (1099-1164), dans sa Descr. de l'Afrique, lui donne par erreur le nom de Sah [ARAB], et marque sa place sur la rive orientale du Nil. _Ædrisii_ Descriptio Africæ, éd. Hartmann, p. 432.
+*) Edrisy (1099-1164), dans sa Descr. de l'Afrique, lui donne par erreur le nom de Sah صاه, et marque sa place sur la rive orientale du Nil. _Ædrisii_ Descriptio Africæ, éd. Hartmann, p. 432.
 
 D'autre part, Makrisy, qui passa en Égypte la plus grande partie de sa vie, de 1360 à 1442, et qui en parle à plusieurs reprises, « atteste que son territoire comprenait soixante-treize bourgs, sans compter les villages.* »
 
